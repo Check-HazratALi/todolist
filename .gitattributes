@@ -1,0 +1,7 @@
+# Mark C++ files in platform directories as vendored
+windows/* linguist-vendored
+linux/* linguist-vendored
+ios/* linguist-vendored
+macos/* linguist-vendored
+android/* linguist-vendored
+web/* linguist-vendored
